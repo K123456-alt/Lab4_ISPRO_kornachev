@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Здравсвуйте!");
+Console.WriteLine("Корначев Кирилл Александрович")
+
