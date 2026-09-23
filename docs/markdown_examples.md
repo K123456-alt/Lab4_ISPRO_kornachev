@@ -49,3 +49,46 @@ class Program
 |Создание репозитория|**git init**|Инициализация репозитория|
 |Просмотр состояния |**git status**|Показывает изменённые файлы|
 |Отправка на GitHub|**git push**|Загружает коммиты на сервер|
+8. Картинка из папки repo/
+![alt](../repo/kornachev.png)
+9. Ссылки
+[Внешняя ссылка](https://github.com/K123456-alt/Lab4_ISPRO_kornachev)
+[Внутрення ссылка](#https://github.com/K123456-alt/Lab4_ISPRO_kornachev)
+10. Чекбоксы
+- [x] Выполнено
+- [ ] Не выполнено
+11. Alert-блоки
+>[!NOTE]
+Заметка
+
+> [!TIP]
+совет
+
+> [!IMPORTANT]
+важная информация
+
+> [!WARNING]
+предупреждение!
+
+> [!CAUTION]
+осторожно!
+
+12. Inline LaTeX
+$a^2 + b^2 = c^2$
+$x^2, a_i, x^{10}$
+$\frac{a}{b}$
+$\sqrt{x}, \sqrt[3]{y}$
+$\sum_{i=1}^n i$
+$\prod_{k=1}^n k$
+13. Block LaTeX
+$$
+\sum_{i=1}^n i = \frac{n(n+1)}{2}
+$$
+$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
+
+
+
+
+
